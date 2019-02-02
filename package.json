@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-treeview",
+  "name": "bootstrap-treeview-2",
   "description": "Tree View for Twitter Bootstrap",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "homepage": "https://github.com/jonmiles/bootstrap-treeview",
   "author": {
     "name": "Jonathan Miles"
@@ -33,8 +33,7 @@
   },
   "dependencies": {
     "express": "3.4.x",
-    "ejs": "2.2.x",
-    "phantomjs": "1.9.x"
+    "ejs": "2.2.x",    
   },
   "devDependencies": {
     "bower": "1.3.x",
